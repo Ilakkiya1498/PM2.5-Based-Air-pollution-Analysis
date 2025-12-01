@@ -77,6 +77,7 @@ You must place the dataset available in the GIT manually into your project folde
 
 Download the dataset
 Move it into your project folder
+Replace the path in the code which is in Line: 53 under Load Dataset section. 
 
 Ensure the file name is: PRSA_data_2010.1.1-2014.12.31.csv
 
